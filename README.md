@@ -13,7 +13,7 @@ Here's a list of the powerful Python automation scripts and tools you'll find in
 
 ### Audio Transcription Script 🎙️
 
-- **Folder:** [📁 mp3-to-text](/mp3-to-text/)
+- **Folder:** [📁 audio-to-text](/audio-to-text/)
 - **Features:**
     - Transcribe audio files into text.
     - Automatically split large audio files into smaller chunks based on silence.
