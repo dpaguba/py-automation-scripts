@@ -10,7 +10,7 @@ This Python script allows you to record audio using your computer's microphone a
     ```
 2. Run the script using the following command:
     ```
-    python sr.py
+    python transcribe.py
     ```
 3. The script will listen to your voice, transcribe it into text, and print the transcribed text in the console.
 
