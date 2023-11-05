@@ -23,3 +23,7 @@ Here's a list of the powerful Python automation scripts and tools you'll find in
 ### Voice Recording and Transcription Script 📝
 
 - **Folder:** [📁 speech-to-text](/speech-to-text/)
+- **Features:**
+    - Record audio from the microphone.
+    - Automatically transcribe the recorded audio into text.
+    - Supports multiple languages.
