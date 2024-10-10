@@ -27,3 +27,13 @@ Here's a list of the powerful Python automation scripts and tools you'll find in
     - Record audio from the microphone.
     - Automatically transcribe the recorded audio into text.
     - Supports multiple languages.
+
+
+### PDF Text Processor 📄
+
+- **Folder:** [📁 pdf-text-processor](/pdf-text-processor/)
+- **Features:**
+    - Extract text from PDF files.
+    - Process extracted text by removing specified strings.
+    - Add formatting to specific lines (e.g., lines starting with "Frage").
+    - Save processed text to a new file.
